@@ -1,24 +1,24 @@
 <!-- README para que se vea bien en GitHub -->
-<h1 align="center">Hola 👋 soy <strong>TU NOMBRE</strong> / <em>tuUsuario</em> ✨</h1>
+<h1 align="center">Hola 👋 soy <strong>Joshua Matias</strong> / <em>Pachu28</em> ✨</h1>
 
 <p align="center">
   Desarrollador • Frontend • Backend • Estudiante de Gestión Financiera
 </p>
 
 <p align="center">
-  <a href="https://youtube.com/@TU_CANAL" target="_blank">
+  <a href="" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=white" />
   </a>
-  <a href="https://www.tiktok.com/@TU_TIKTOK" target="_blank">
+  <a href="" target="_blank">
     <img src="https://img.shields.io/badge/TikTok-000000?logo=tiktok&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/TU_LINKEDIN" target="_blank">
+  <a href="" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://facebook.com/TU_FACEBOOK" target="_blank">
+  <a href="" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white" />
   </a>
-  <a href="mailto:TU_CORREO@dominio.com">
+  <a href="">
     <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" />
   </a>
 </p>
@@ -35,16 +35,21 @@
 ---
 
 ## Tecnologías conocidas 🧠
-<p>
+<!-- Tecnologías (Devicon). Nota: no hay icono oficial de VB.NET; uso el de .NET como equivalente. -->
+<p align="left">
   <img alt="HTML5"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="38" />
   <img alt="CSS3"   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="38" />
-  <img alt="JS"     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="38" />
-  <img alt=".NET"   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain.svg" width="38" />
-  <img alt="VB.NET" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vbnet/vbnet-original.svg" width="38" />
-  <img alt="SQLSrv" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="38" />
-  <img alt="Git"    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="38" />
-  <img alt="GitHub" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="38" />
+  <img alt="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="38" />
+  <img alt="VB.NET (.NET)" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain.svg" width="38" />
+  <img alt="SQL Server" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="38" />
 </p>
+
+<!-- Estudiando Ciberseguridad -->
+<p align="left">
+  <img alt="Estudiando Ciberseguridad"
+       src="https://img.shields.io/badge/Estudiando-Ciberseguridad-0ea5e9?style=flat&logo=protonvpn&logoColor=white" />
+</p>
+
 
 ---
 
