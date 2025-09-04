@@ -36,12 +36,10 @@
 - 📢 Pequeño **creador de contenido** que comparte lo que aprende con base en estudio y experiencia.  
 - 💻 **+X años** construyendo software de escritorio (VB.NET + SQL Server) y web (HTML/CSS/JS).  
 - 🧩 Roles: desarrollador, líder, emprendedor; me interesa arquitectura simple y UX clara.  
-- ✉️ Contacto: **TU_CORREO@dominio.com**  
 
 ---
 
 ## Tecnologías conocidas 🧠
-<!-- Tecnologías (Devicon). Nota: no hay icono oficial de VB.NET; uso el de .NET como equivalente. -->
 <p align="left">
   <img alt="HTML5"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="38" />
   <img alt="CSS3"   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="38" />
@@ -60,23 +58,15 @@
 ---
 
 ## Proyectos 🚀
-- **Sistema de Ventas** — Roles y permisos jerárquicos, NCF, transacciones con rollback.  
-  `VB.NET • SQL Server • WinForms`  
-  Repo: https://github.com/tuUsuario/sistema-ventas
-
-- **Portafolio HTML** — Landing accesible y ligera desplegada en GitHub Pages.  
-  `HTML • CSS`  
-  Repo: https://github.com/tuUsuario/portafolio-html
-
-- **Dashboard de Reportes** — Consultas optimizadas y vistas para informes rápidos.  
-  `.NET • SQL`  
-  Repo: https://github.com/tuUsuario/reportes-dashboard
+- **Sistema de Ventas** — Aplicación desarrollada para administrar procesos de ventas, con funciones de registro de clientes, control de inventario, emisión de facturas y generación de reportes. Su diseño busca optimizar la gestión comercial y facilitar el seguimiento de las operaciones de una empresa.
+- 
+  `VB.NET • SQL Server • WinForms • Visual Studio 2022`  
+  Repo: ""
 
 ---
 
 ## Contacto 📬
-- Email: **TU_CORREO@dominio.com**  
-- LinkedIn: https://www.linkedin.com/in/TU_LINKEDIN  
-- GitHub: https://github.com/tuUsuario
+- Email: **Joshuamatiasrd97@gmail.com**
+- Telefono: +1(849)453-6261
 
-> ⚡ Tip: Si este README es para tu perfil, crea un repo llamado **exactamente** `tuUsuario` y pon este `README.md` dentro.
+> ⚡
