@@ -33,7 +33,7 @@
 
 ## Sobre mí 🙂
 - 🎓 **Ingeniería/Estudiante en Informática** con enfoque en productos simples y mantenibles.
-- 🎓 **Estudiante de Tecnico en Ciberseguridad en la Pucmm.
+- 🎓 Estudiante de **Tecnico en Ciberseguridad** en la Pucmm.
 - 📢 Pequeño **Desarrollador de software** que comparte lo que aprende con base en estudio y projectos.  
 - 💻 **4 años** con conocimiento en desarollo de software de escritorio (VB.NET + SQL Server) y web (HTML/CSS/JS).  
 
@@ -48,7 +48,6 @@
   <img alt="SQL Server" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="38" />
 </p>
 
-<!-- Estudiando Ciberseguridad -->
 <p align="left">
   <img alt="Estudiando Ciberseguridad"
        src="https://img.shields.io/badge/Estudiando-Ciberseguridad-0ea5e9?style=flat&logo=protonvpn&logoColor=white" />
