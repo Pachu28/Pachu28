@@ -34,7 +34,7 @@
 ## Sobre mí 🙂
 - 🎓 Estudiante de **Tecnico en Ciberseguridad** en la Pucmm.
 - 📢 Pequeño **Desarrollador de software** que comparte lo que aprende con base en estudio y projectos.  
-- 💻 **4 años** con conocimiento en desarollo de software de escritorio (VB.NET + SQL Server) y web (HTML/CSS/JS).  
+- 💻 **2 años** con conocimiento en desarollo de software de escritorio (VB.NET + SQL Server) y web (HTML/CSS/JS).  
 
 ---
 
