@@ -36,7 +36,7 @@
 - 📢 Pequeño **Desarrollador de software** que comparte lo que aprende con base en estudio y projectos.  
 - 💻 **2 años** con conocimiento en desarollo de software de escritorio (VB.NET + SQL Server) y web (HTML/CSS/JS).
 
-<a class="link" href="https://github.com/Pachu28/pachu28.github.io/blob/main/TheHarvester/README.md" target="_blank" rel="noreferrer">PORTAFOLIO DIGITAL</a>
+<a class="link" href="[https://github.com/Pachu28/pachu28.github.io/blob/main/TheHarvester/README.md](https://pachu28.github.io/#sobre-mi)" target="_blank" rel="noreferrer">PORTAFOLIO DIGITAL</a>
 
 ---
 
